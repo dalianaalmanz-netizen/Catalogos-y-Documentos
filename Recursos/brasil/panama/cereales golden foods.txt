@@ -1,0 +1,19 @@
+Instrucciones generales: Usa imágenes de referencia reales de empaques encontrados en la web para cada producto de la marca Golden Foods. Genera 2 imágenes fotorealistas en alta resolución, con enfoque nítido, colores fieles al empaque real y sin inventar marcas ni textos. Mantén logos y etiquetas correctos y legibles. Fondo totalmente transparente (sin sombras externas falsas) para uso en catálogo ecommerce. No agregar textos promocionales ni precios sobre las imágenes.
+
+Imagen 2 — Cereales Golden Foods:
+Incluir en la misma composición los siguientes cereales en su presentación real:
+
+Corn Flakes 198.4 g
+
+Fruit Rolls 198.4 g
+
+
+Requerimientos técnicos finales:
+
+Formato: PNG con fondo transparente.
+
+Resolución mínima: 3000×2000 px.
+
+Fidelidad total a empaques y marcas reales.
+
+Estilo: fotográfico, realista, apto para catálogo ecommerce.
